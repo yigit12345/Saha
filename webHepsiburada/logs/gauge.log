@@ -1,0 +1,149 @@
+14:39:04.494 Unable to send analytics data, timed out
+14:39:05.076 Plugin java is already installed.
+14:39:05.076 Compatible version of plugin html-report not found. Installing plugin html-report...
+14:39:05.076 Gathering metadata for html-report
+14:39:06.166 Downloading html-report-4.0.6-darwin.x86_64.zip
+14:39:14.330 Installing plugin html-report 4.0.6
+14:39:14.393 Successfully installed plugin 'html-report'.
+14:39:14.394 Installing required plugins.
+14:39:14.394 Installing plugin 'screenshot'
+14:39:14.394 Gathering metadata for screenshot
+14:39:15.145 Downloading screenshot-0.0.1-darwin.x86_64.zip
+14:39:15.208 Checking updates...
+14:39:16.288 Installing plugin screenshot 0.0.1
+14:39:16.293 Successfully installed plugin 'screenshot'.
+14:39:19.351 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"See items available for purchase." > 
+14:39:19.352 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"See items available for purchase." parameterizedStepValue:"See items available for purchase." > > 
+14:39:19.364 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Clear previous login" > 
+14:39:19.364 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Clear previous login" parameterizedStepValue:"Clear previous login" > > 
+14:39:19.365 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login as name <name> and <password>" > 
+14:39:19.365 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login as name {} and {}" parameterizedStepValue:"Login as name <name> and <password>" parameters:"name" parameters:"password" > > 
+14:39:19.366 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Log out the customer" > 
+14:39:19.367 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Log out the customer" parameterizedStepValue:"Log out the customer" > > 
+14:39:19.367 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Add item <item> to the cart." > 
+14:39:19.367 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Add item {} to the cart." parameterizedStepValue:"Add item <item> to the cart." parameters:"item" > > 
+14:39:19.368 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Checkout now" > 
+14:39:19.369 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Checkout now" parameterizedStepValue:"Checkout now" > > 
+14:39:19.369 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sign up as <customer> with email <customer@example.com> and <password>" > 
+14:39:19.369 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sign up as {} with email {} and {}" parameterizedStepValue:"Sign up as <customer> with email <customer@example.com> and <password>" parameters:"customer" parameters:"customer@example.com" parameters:"password" > > 
+14:39:19.370 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Show a message <message>" > 
+14:39:19.370 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Show a message {}" parameterizedStepValue:"Show a message <message>" parameters:"message" > > 
+14:39:19.371 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Show the log in status for user <customer>" > 
+14:39:19.371 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Show the log in status for user {}" parameterizedStepValue:"Show the log in status for user <customer>" parameters:"customer" > > 
+14:39:19.372 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to the store website" > 
+14:39:19.372 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to the store website" parameterizedStepValue:"Go to the store website" > > 
+14:39:19.372 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Give an option to Log Out" > 
+14:39:19.372 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Give an option to Log Out" parameterizedStepValue:"Give an option to Log Out" > > 
+14:39:19.373 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Give an option to Log In" > 
+14:39:19.373 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Give an option to Log In" parameterizedStepValue:"Give an option to Log In" > > 
+14:39:19.374 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Cart now contains <itemCount> number of items" > 
+14:39:19.374 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Cart now contains {} number of items" parameterizedStepValue:"Cart now contains <itemCount> number of items" parameters:"itemCount" > > 
+14:39:39.148 Plugin [Html Report] with pid [2444] has exited
+14:39:39.668 Specifications:	1 executed	0 passed	1 failed	0 skipped
+14:39:39.668 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+14:39:39.668 
+Total time taken: 18.524s
+14:42:39.275 Unable to send analytics data, timed out
+14:42:39.850 Plugin html-report is already installed.
+14:42:39.851 Plugin java is already installed.
+14:42:40.693 Checking updates...
+14:42:42.970 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"See items available for purchase." > 
+14:42:42.971 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"See items available for purchase." parameterizedStepValue:"See items available for purchase." > > 
+14:42:42.986 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Clear previous login" > 
+14:42:42.986 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Clear previous login" parameterizedStepValue:"Clear previous login" > > 
+14:42:42.987 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login as name <name> and <password>" > 
+14:42:42.987 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login as name {} and {}" parameterizedStepValue:"Login as name <name> and <password>" parameters:"name" parameters:"password" > > 
+14:42:42.989 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Log out the customer" > 
+14:42:42.989 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Log out the customer" parameterizedStepValue:"Log out the customer" > > 
+14:42:42.990 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Add item <item> to the cart." > 
+14:42:42.990 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Add item {} to the cart." parameterizedStepValue:"Add item <item> to the cart." parameters:"item" > > 
+14:42:42.991 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Checkout now" > 
+14:42:42.991 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Checkout now" parameterizedStepValue:"Checkout now" > > 
+14:42:42.992 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sign up as <customer> with email <customer@example.com> and <password>" > 
+14:42:42.992 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sign up as {} with email {} and {}" parameterizedStepValue:"Sign up as <customer> with email <customer@example.com> and <password>" parameters:"customer" parameters:"customer@example.com" parameters:"password" > > 
+14:42:42.993 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Show a message <message>" > 
+14:42:42.993 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Show a message {}" parameterizedStepValue:"Show a message <message>" parameters:"message" > > 
+14:42:42.994 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Show the log in status for user <customer>" > 
+14:42:42.994 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Show the log in status for user {}" parameterizedStepValue:"Show the log in status for user <customer>" parameters:"customer" > > 
+14:42:42.995 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to the store website" > 
+14:42:42.996 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to the store website" parameterizedStepValue:"Go to the store website" > > 
+14:42:42.996 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Give an option to Log Out" > 
+14:42:42.996 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Give an option to Log Out" parameterizedStepValue:"Give an option to Log Out" > > 
+14:42:42.997 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Give an option to Log In" > 
+14:42:42.997 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Give an option to Log In" parameterizedStepValue:"Give an option to Log In" > > 
+14:42:42.998 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Cart now contains <itemCount> number of items" > 
+14:42:42.998 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Cart now contains {} number of items" parameterizedStepValue:"Cart now contains <itemCount> number of items" parameters:"itemCount" > > 
+14:43:01.580 Plugin [Html Report] with pid [2481] has exited
+14:43:02.101 Specifications:	1 executed	0 passed	1 failed	0 skipped
+14:43:02.101 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+14:43:02.101 
+Total time taken: 17.213s
+14:43:56.847 Unable to send analytics data, timed out
+14:43:57.375 Plugin java is already installed.
+14:43:57.376 Plugin html-report is already installed.
+14:43:58.252 Checking updates...
+14:44:00.656 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"See items available for purchase." > 
+14:44:00.657 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"See items available for purchase." parameterizedStepValue:"See items available for purchase." > > 
+14:44:00.667 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Clear previous login" > 
+14:44:00.667 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Clear previous login" parameterizedStepValue:"Clear previous login" > > 
+14:44:00.668 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login as name <name> and <password>" > 
+14:44:00.668 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login as name {} and {}" parameterizedStepValue:"Login as name <name> and <password>" parameters:"name" parameters:"password" > > 
+14:44:00.669 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Log out the customer" > 
+14:44:00.669 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Log out the customer" parameterizedStepValue:"Log out the customer" > > 
+14:44:00.670 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Add item <item> to the cart." > 
+14:44:00.670 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Add item {} to the cart." parameterizedStepValue:"Add item <item> to the cart." parameters:"item" > > 
+14:44:00.671 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Checkout now" > 
+14:44:00.671 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Checkout now" parameterizedStepValue:"Checkout now" > > 
+14:44:00.671 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sign up as <customer> with email <customer@example.com> and <password>" > 
+14:44:00.671 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sign up as {} with email {} and {}" parameterizedStepValue:"Sign up as <customer> with email <customer@example.com> and <password>" parameters:"customer" parameters:"customer@example.com" parameters:"password" > > 
+14:44:00.672 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Show a message <message>" > 
+14:44:00.672 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Show a message {}" parameterizedStepValue:"Show a message <message>" parameters:"message" > > 
+14:44:00.672 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Show the log in status for user <customer>" > 
+14:44:00.673 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Show the log in status for user {}" parameterizedStepValue:"Show the log in status for user <customer>" parameters:"customer" > > 
+14:44:00.673 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to the store website" > 
+14:44:00.673 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to the store website" parameterizedStepValue:"Go to the store website" > > 
+14:44:00.673 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Give an option to Log Out" > 
+14:44:00.674 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Give an option to Log Out" parameterizedStepValue:"Give an option to Log Out" > > 
+14:44:00.674 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Give an option to Log In" > 
+14:44:00.674 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Give an option to Log In" parameterizedStepValue:"Give an option to Log In" > > 
+14:44:00.675 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Cart now contains <itemCount> number of items" > 
+14:44:00.675 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Cart now contains {} number of items" parameterizedStepValue:"Cart now contains <itemCount> number of items" parameters:"itemCount" > > 
+14:44:17.015 Plugin [Html Report] with pid [2506] has exited
+14:44:17.423 Specifications:	1 executed	0 passed	1 failed	0 skipped
+14:44:17.423 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+14:44:17.423 
+Total time taken: 15.083s
+08:46:48.563 Plugin html-report is already installed.
+08:46:48.565 Plugin java is already installed.
+08:46:50.042 Checking updates...
+08:46:52.747 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"See items available for purchase." > 
+08:46:52.748 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"See items available for purchase." parameterizedStepValue:"See items available for purchase." > > 
+08:46:52.758 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Clear previous login" > 
+08:46:52.759 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Clear previous login" parameterizedStepValue:"Clear previous login" > > 
+08:46:52.759 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Give an option to Log In" > 
+08:46:52.759 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Give an option to Log In" parameterizedStepValue:"Give an option to Log In" > > 
+08:46:52.761 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Show the log in status for user <customer>" > 
+08:46:52.761 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Show the log in status for user {}" parameterizedStepValue:"Show the log in status for user <customer>" parameters:"customer" > > 
+08:46:52.763 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Log out the customer" > 
+08:46:52.763 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Log out the customer" parameterizedStepValue:"Log out the customer" > > 
+08:46:52.764 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Add item <item> to the cart." > 
+08:46:52.764 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Add item {} to the cart." parameterizedStepValue:"Add item <item> to the cart." parameters:"item" > > 
+08:46:52.765 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Checkout now" > 
+08:46:52.765 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Checkout now" parameterizedStepValue:"Checkout now" > > 
+08:46:52.773 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sign up as <customer> with email <customer@example.com> and <password>" > 
+08:46:52.773 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sign up as {} with email {} and {}" parameterizedStepValue:"Sign up as <customer> with email <customer@example.com> and <password>" parameters:"customer" parameters:"customer@example.com" parameters:"password" > > 
+08:46:52.777 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Show a message <message>" > 
+08:46:52.778 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Show a message {}" parameterizedStepValue:"Show a message <message>" parameters:"message" > > 
+08:46:52.779 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to the store website" > 
+08:46:52.780 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to the store website" parameterizedStepValue:"Go to the store website" > > 
+08:46:52.780 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Give an option to Log Out" > 
+08:46:52.780 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Give an option to Log Out" parameterizedStepValue:"Give an option to Log Out" > > 
+08:46:52.782 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Cart now contains <itemCount> number of items" > 
+08:46:52.782 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Cart now contains {} number of items" parameterizedStepValue:"Cart now contains <itemCount> number of items" parameters:"itemCount" > > 
+08:46:52.784 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login as name <name> and <password>" > 
+08:46:52.784 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login as name {} and {}" parameterizedStepValue:"Login as name <name> and <password>" parameters:"name" parameters:"password" > > 
+08:47:05.047 Plugin [Html Report] with pid [9542] has exited
+08:47:05.566 Specifications:	1 executed	0 passed	1 failed	0 skipped
+08:47:05.566 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+08:47:05.567 
+Total time taken: 10.672s
